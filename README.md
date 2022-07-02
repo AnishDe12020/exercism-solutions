@@ -11,4 +11,4 @@ Exercism CLI are present in this repository. You can find all the exercises on
 # Credits
 
 Exercises here are from the [Exercism](https://exercism.org/) platform. You can
-find there [GitHub repository here](https://github.com/exercism)
+find their [GitHub repository here](https://github.com/exercism)
